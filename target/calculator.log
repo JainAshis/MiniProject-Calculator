@@ -1,0 +1,8 @@
+13/Mar/2021:20:26:22 105 [App.java] [INFO] App Calculate the Square Root of  9.0
+13/Mar/2021:20:26:22 125 [App.java] [INFO] App Result of the square root of 9.0 is 3.0
+13/Mar/2021:20:26:41 178 [App.java] [INFO] App Calculate Factorial of number 5
+13/Mar/2021:20:26:41 179 [App.java] [INFO] App Result of factorial of 5 is 120
+13/Mar/2021:20:26:48 367 [App.java] [INFO] App Calculate the Natural Log of 6.0
+13/Mar/2021:20:26:48 368 [App.java] [INFO] App Result of Natural Log of 6.0 is 1.791759469228055
+13/Mar/2021:20:27:02 906 [App.java] [INFO] App Find Power of the number 4.0,5.0
+13/Mar/2021:20:27:02 907 [App.java] [INFO] App Result of Power of the number 4.0,5.0 is 1024.0

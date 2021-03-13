@@ -28,10 +28,14 @@
       <change afterPath="$PROJECT_DIR$/../Lab2/maven/hellomaven.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab2/webmaven/webmaven.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab3/HelloJUnit/HelloJUnit.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalcPlaybook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/CalcPlaybook.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory" beforeDir="false" afterPath="$PROJECT_DIR$/inventory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestApp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestApp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestApp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestApp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestApp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +46,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Tag Library Descriptor" />
       </list>
     </option>
   </component>
@@ -77,6 +82,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
@@ -102,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615544758755</updated>
       <workItem from="1615544760354" duration="6959000" />
-      <workItem from="1615626151465" duration="2758000" />
+      <workItem from="1615626151465" duration="9803000" />
     </task>
     <servers />
   </component>
@@ -122,6 +128,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="358" y="166" width="706" height="460" key="#Log_Highlighting_(ideolog)" timestamp="1615647344839">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="358" y="166" width="706" height="460" key="#Log_Highlighting_(ideolog)/67.27.1299.741@67.27.1299.741" timestamp="1615647344839" />
     <state x="199" y="27" width="1024" height="741" key="#Project_Structure" timestamp="1615544836123">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -130,10 +140,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1615549702503" />
-    <state x="413" y="198" width="596" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615639217019">
+    <state x="413" y="198" width="596" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615640892483">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="413" y="198" width="596" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1615639217019" />
+    <state x="413" y="198" width="596" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1615640892483" />
     <state x="317" y="66" width="788" height="661" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1615570064647">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -142,9 +152,17 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1615638443301" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1615644106518">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1615644106518" />
     <state x="67" y="100" width="1289" height="592" key="new project wizard" timestamp="1615548799666">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="67" y="100" width="1289" height="592" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1615548799666" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1615644047630">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1615644047630" />
   </component>
 </project>

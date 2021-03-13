@@ -1,10 +1,15 @@
-import java.util.*;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import java.util.Scanner;
+import static java.lang.Math.*;
 
 public class App {
+        private static final Logger logger= LogManager.getLogger(App.class);
         public static void main(String args[])
         {
             int choice, flag=0;
             double num1, num2, num;
+            int num3;
             Scanner scan = new Scanner(System.in);
 
             System.out.println("-----------------------CALCULATOR-----------------------");
@@ -17,11 +22,6 @@ public class App {
                     System.out.println("Invalid choice, exiting\n");
                 }
                 else if (flag != 1){
-                    //System.out.println("Enter two numbers");
-                    //System.out.print("Enter number 1: ");
-                    //num1 = scan.nextDouble();
-                    //System.out.print("Enter number 2: ");
-                    //num2 = scan.nextDouble();
 
                     switch(choice) {
                         case 1:
@@ -32,9 +32,9 @@ public class App {
                             break;
                         case 2:
                             System.out.print("Enter the Number : ");
-                            num = scan.nextDouble();
+                            num3 = scan.nextInt();
                             System.out.println();
-                            System.out.println("Factorial of "+num+" = "+Factorial(num));
+                            System.out.println("Factorial of "+num3+" = "+Factorial(num3));
                             break;
                         case 3:
                             System.out.print("Enter the Number : ");
@@ -59,18 +59,29 @@ public class App {
         }
 
         static double SquareRoot(double a) {
+            logger.info("Calculate the Square Root of  "+a);
+            logger.info("Result of the square root of "+a+" is "+Math.sqrt(a));
             return Math.sqrt(a);
         }
-        static double Factorial(double a) {
-            if (a <= 1)
+        static int Factorial(int a) {
+            logger.info("Calculate Factorial of number "+ a);
+            int res=1;
+            if(a==0||a==1)
                 return 1;
-            else
-                return a * Factorial(a - 1);
+            for(int i=a;i>=1;i--){
+                res=res*i;
+            }
+            logger.info("Result of factorial of "+a +" is "+res);
+            return res;
         }
         static double NaturalLogarithm(double a) {
+            logger.info("Calculate the Natural Log of "+a);
+            logger.info("Result of Natural Log of "+a+" is "+Math.log(a));
             return Math.log(a);
         }
         static double Power(double a, double b) {
+            logger.info("Find Power of the number "+a+","+b);
+            logger.info("Result of Power of the number "+a+","+b+" is "+ Math.pow(a,b));
             return Math.pow(a, b);
         }
 }

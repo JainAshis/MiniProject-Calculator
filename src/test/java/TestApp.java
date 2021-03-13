@@ -10,16 +10,16 @@ public class TestApp extends TestCase{
 
     @Test
     public void testFactTruePositive() {
-        assertEquals("Factorial of number for True Positive ",1.0,calculator.Factorial(0));
-        assertEquals("Factorial of number for True Positive",1.0,calculator.Factorial(1));
-        assertEquals("Factorial of number for True Positive",720.0,calculator.Factorial(6));
+        assertEquals("Factorial of number for True Positive ",1,calculator.Factorial(0));
+        assertEquals("Factorial of number for True Positive",1,calculator.Factorial(1));
+        assertEquals("Factorial of number for True Positive",720,calculator.Factorial(6));
     }
 
 
     public void testFactFalsePositive() {
-        assertNotEquals("Factorial of number for False Positive ",0.0,calculator.Factorial(0));
-        assertNotEquals("Factorial of number for False Positive",0.0,calculator.Factorial(1));
-        assertNotEquals("Factorial of number for False Positive",0.0,calculator.Factorial(6));
+        assertNotEquals("Factorial of number for False Positive ",0,calculator.Factorial(0));
+        assertNotEquals("Factorial of number for False Positive",0,calculator.Factorial(1));
+        assertNotEquals("Factorial of number for False Positive",0,calculator.Factorial(6));
     }
 
     public void testSquareRootTruePositive() {
@@ -32,7 +32,7 @@ public class TestApp extends TestCase{
     public void testSquareRootFalsePositive() {
         assertNotEquals("Square Root of number for False Positive ",1.0,calculator.SquareRoot(0));
         assertNotEquals("Square Root of number for False Positive",-1.0,calculator.SquareRoot(1));
-        assertNotEquals("Square Root of number for False Positive",20.0,calculator.SquareRoot(4));
+        assertNotEquals("Square Root of number for False Positive",40.0,calculator.SquareRoot(16));
 
     }
     public void testLogarithmTruePositive() {
@@ -41,14 +41,14 @@ public class TestApp extends TestCase{
 
     public void testPowerTruePositive() {
         assertEquals("Power of number for True Positive ",1.0,calculator.Power(0,0));
-        assertEquals("Power of number for True Positive",8.0,calculator.Power(2,3));
-        assertEquals("Power of number for True Positive",-1.0,calculator.Power(-1,3));
+        assertEquals("Power of number for True Positive",64.0,calculator.Power(4,3));
+        assertEquals("Power of number for True Positive",-1.0,calculator.Power(-1,7));
     }
 
     public void testPowerFalsePositive() {
         assertNotEquals("Power of number for false Positive ",0,calculator.Power(0,0));
-        assertNotEquals("Power of number for false Positive",6,calculator.Power(2,3));
-        assertNotEquals("Power of number for false Positive",1,calculator.Power(-1,3));
+        assertNotEquals("Power of number for false Positive",46,calculator.Power(4,3));
+        assertNotEquals("Power of number for false Positive",1,calculator.Power(-1,7));
     }
 
 
