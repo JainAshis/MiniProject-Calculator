@@ -28,7 +28,6 @@
       <change afterPath="$PROJECT_DIR$/../Lab2/maven/hellomaven.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab2/webmaven/webmaven.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab3/HelloJUnit/HelloJUnit.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalcPlaybook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/CalcPlaybook.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +87,7 @@
       <workItem from="1615544760354" duration="6959000" />
       <workItem from="1615626151465" duration="11856000" />
       <workItem from="1615718781937" duration="8480000" />
+      <workItem from="1615918668194" duration="787000" />
     </task>
     <servers />
   </component>
