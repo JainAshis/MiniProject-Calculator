@@ -1,1 +1,1 @@
-localhost ansible_user=SPECalc ansible_python_interpreter=/usr/bin/python
+localhost ansible_user=ashish ansible_python_interpreter=/usr/bin/python
