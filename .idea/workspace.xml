@@ -29,13 +29,7 @@
       <change afterPath="$PROJECT_DIR$/../Lab2/webmaven/webmaven.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab3/HelloJUnit/HelloJUnit.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestApp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestApp.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestApp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestApp.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalcPlaybook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/CalcPlaybook.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,21 +78,6 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -108,7 +87,8 @@
       <option name="presentableId" value="Default" />
       <updated>1615544758755</updated>
       <workItem from="1615544760354" duration="6959000" />
-      <workItem from="1615626151465" duration="9803000" />
+      <workItem from="1615626151465" duration="11856000" />
+      <workItem from="1615718781937" duration="1431000" />
     </task>
     <servers />
   </component>
