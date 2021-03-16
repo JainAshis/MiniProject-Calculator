@@ -1,9 +1,10 @@
 ---
-- name: Pull docker image of Calculator
-  hosts: all
+- name: Pull the image in production host and create the container
+  hosts: Host
   tasks:
-    - name: Pull calculator devops image
-      docker_image:
-        name: ashuj3112/calcdockerimage:latest
-        source: pull
-
+    - name: Docker login
+      shell:
+        cmd: docker login
+    - name: Pulling the Image
+      shell:
+        cmd: docker pull ashuj3112/calcdockerimage:latest
