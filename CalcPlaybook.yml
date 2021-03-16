@@ -4,7 +4,7 @@
   tasks:
     - name: Docker login
       shell:
-        cmd: sudo docker login
+        cmd: docker login
     - name: Pulling the Image
       shell:
-        cmd: docker pull ashuj3112/calcdockerimage:latest
+        cmd: docker pull ashuj3112/calcdockerimage
