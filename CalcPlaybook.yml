@@ -2,9 +2,7 @@
 - name: Pull the image in production host and create the container
   hosts: all
   tasks:
-    - name: Docker login
-      shell:
-        cmd: docker login -u $ashuj3112 -p $Ashu#98Jain
     - name: Pulling the Image
-      shell:
-        cmd: docker pull ashuj3112/calcdockerimage
+      docker_image:
+        name: ashuj3112/calcdockerimage
+        source: pull
