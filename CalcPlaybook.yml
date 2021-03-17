@@ -7,4 +7,4 @@
         cmd: docker login
     - name: Pulling the Image
       shell:
-        cmd: docker pull ashuj3112/calcdockerimage:latest
+        cmd: docker pull ashish/calcdockerimage:latest

@@ -4,7 +4,7 @@ import java.util.Scanner;
 import static java.lang.Math.*;
 
 public class App {
-        private static final Logger logger= LogManager.getLogger(App.class);
+        public static final Logger logger= LogManager.getLogger(App.class);
         public static void main(String args[])
         {
             int choice, flag=0;
