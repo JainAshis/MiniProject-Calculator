@@ -1,6 +1,6 @@
 ---
 - name: Pull the image in production host and create the container
-  hosts: Host
+  hosts: all
   tasks:
     - name: Docker login
       shell:

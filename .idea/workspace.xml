@@ -29,6 +29,7 @@
       <change afterPath="$PROJECT_DIR$/../Lab2/webmaven/webmaven.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab3/HelloJUnit/HelloJUnit.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalcPlaybook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/CalcPlaybook.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +92,8 @@
       <workItem from="1615918668194" duration="4439000" />
       <workItem from="1615956299270" duration="2739000" />
       <workItem from="1615966652221" duration="1506000" />
-      <workItem from="1615982656236" duration="273000" />
+      <workItem from="1615982656236" duration="3718000" />
+      <workItem from="1615999799530" duration="626000" />
     </task>
     <servers />
   </component>
@@ -119,10 +121,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="199" y="27" width="1024" height="741" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1615544836123" />
-    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615549702503">
+    <state x="174" y="54" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615985145964">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1615549702503" />
+    <state x="174" y="54" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1615985145964" />
     <state x="413" y="198" width="596" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615640892483">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -139,10 +141,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1615644106518" />
-    <state x="67" y="100" width="1289" height="592" key="new project wizard" timestamp="1615548799666">
+    <state x="67" y="100" width="1289" height="592" key="new project wizard" timestamp="1615983029558">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="67" y="100" width="1289" height="592" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1615548799666" />
+    <state x="67" y="100" width="1289" height="592" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1615983029558" />
     <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1615644047630">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
