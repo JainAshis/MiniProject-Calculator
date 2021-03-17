@@ -14,10 +14,10 @@ public class App {
 
             System.out.println("-----------------------CALCULATOR-----------------------");
             do {
-                System.out.println("1 for Square Root\n2 for Factorial\n3 for Natural Logarithm\n4 for Power\n");
+                System.out.println("1. Find Square Root\n2. Find Factorial\n3. Find Natural Logarithm\n4. Find Power\n5. Exit\n");
                 System.out.print("Enter your choice: ");
                 choice = scan.nextInt();
-                if (choice > 4 || choice <1) {
+                if (choice > 5 || choice <1) {
                     flag = 1;
                     System.out.println("Invalid choice, exiting\n");
                 }
@@ -50,8 +50,9 @@ public class App {
                             System.out.println();
                             System.out.println("Number raised to the power "+num2+" of "+num1+" = "+Power(num1, num2));
                             break;
-                        default: System.out.println("Exiting, Bye");
-                            flag=1;
+                        case 5:
+                            System.out.println("Exiting, Bye");
+                            flag = 1;
                     }
                 }
                 System.out.println("\n");

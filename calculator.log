@@ -6295,3 +6295,71 @@
 13/Mar/2021:20:24:09 542 [App.java] [INFO] App Calculate Factorial of number 1
 13/Mar/2021:20:24:09 543 [App.java] [INFO] App Calculate Factorial of number 6
 13/Mar/2021:20:24:09 544 [App.java] [INFO] App Result of factorial of 6 is 720
+17/Mar/2021:17:46:22 761 [App.java] [INFO] App Calculate the Square Root of  0.0
+17/Mar/2021:17:46:22 783 [App.java] [INFO] App Result of the square root of 0.0 is 0.0
+17/Mar/2021:17:46:22 792 [App.java] [INFO] App Calculate the Square Root of  1.0
+17/Mar/2021:17:46:22 793 [App.java] [INFO] App Result of the square root of 1.0 is 1.0
+17/Mar/2021:17:46:22 794 [App.java] [INFO] App Calculate the Square Root of  16.0
+17/Mar/2021:17:46:22 796 [App.java] [INFO] App Result of the square root of 16.0 is 4.0
+17/Mar/2021:17:46:22 800 [App.java] [INFO] App Calculate Factorial of number 0
+17/Mar/2021:17:46:22 805 [App.java] [INFO] App Calculate Factorial of number 1
+17/Mar/2021:17:46:22 807 [App.java] [INFO] App Calculate Factorial of number 6
+17/Mar/2021:17:46:22 809 [App.java] [INFO] App Result of factorial of 6 is 720
+17/Mar/2021:17:46:22 811 [App.java] [INFO] App Calculate the Natural Log of 1.0
+17/Mar/2021:17:46:22 812 [App.java] [INFO] App Result of Natural Log of 1.0 is 0.0
+17/Mar/2021:17:46:22 814 [App.java] [INFO] App Calculate the Square Root of  0.0
+17/Mar/2021:17:46:22 816 [App.java] [INFO] App Result of the square root of 0.0 is 0.0
+17/Mar/2021:17:46:22 818 [App.java] [INFO] App Calculate the Square Root of  1.0
+17/Mar/2021:17:46:22 819 [App.java] [INFO] App Result of the square root of 1.0 is 1.0
+17/Mar/2021:17:46:22 820 [App.java] [INFO] App Calculate the Square Root of  16.0
+17/Mar/2021:17:46:22 821 [App.java] [INFO] App Result of the square root of 16.0 is 4.0
+17/Mar/2021:17:46:22 828 [App.java] [INFO] App Find Power of the number 0.0,0.0
+17/Mar/2021:17:46:22 830 [App.java] [INFO] App Result of Power of the number 0.0,0.0 is 1.0
+17/Mar/2021:17:46:22 831 [App.java] [INFO] App Find Power of the number 4.0,3.0
+17/Mar/2021:17:46:22 834 [App.java] [INFO] App Result of Power of the number 4.0,3.0 is 64.0
+17/Mar/2021:17:46:22 835 [App.java] [INFO] App Find Power of the number -1.0,7.0
+17/Mar/2021:17:46:22 844 [App.java] [INFO] App Result of Power of the number -1.0,7.0 is -1.0
+17/Mar/2021:17:46:22 847 [App.java] [INFO] App Find Power of the number 0.0,0.0
+17/Mar/2021:17:46:22 848 [App.java] [INFO] App Result of Power of the number 0.0,0.0 is 1.0
+17/Mar/2021:17:46:22 849 [App.java] [INFO] App Find Power of the number 4.0,3.0
+17/Mar/2021:17:46:22 850 [App.java] [INFO] App Result of Power of the number 4.0,3.0 is 64.0
+17/Mar/2021:17:46:22 852 [App.java] [INFO] App Find Power of the number -1.0,7.0
+17/Mar/2021:17:46:22 853 [App.java] [INFO] App Result of Power of the number -1.0,7.0 is -1.0
+17/Mar/2021:17:46:22 856 [App.java] [INFO] App Calculate Factorial of number 0
+17/Mar/2021:17:46:22 858 [App.java] [INFO] App Calculate Factorial of number 1
+17/Mar/2021:17:46:22 859 [App.java] [INFO] App Calculate Factorial of number 6
+17/Mar/2021:17:46:22 860 [App.java] [INFO] App Result of factorial of 6 is 720
+17/Mar/2021:17:46:44 838 [App.java] [INFO] App Calculate the Square Root of  0.0
+17/Mar/2021:17:46:44 852 [App.java] [INFO] App Result of the square root of 0.0 is 0.0
+17/Mar/2021:17:46:44 858 [App.java] [INFO] App Calculate the Square Root of  1.0
+17/Mar/2021:17:46:44 859 [App.java] [INFO] App Result of the square root of 1.0 is 1.0
+17/Mar/2021:17:46:44 860 [App.java] [INFO] App Calculate the Square Root of  16.0
+17/Mar/2021:17:46:44 862 [App.java] [INFO] App Result of the square root of 16.0 is 4.0
+17/Mar/2021:17:46:44 865 [App.java] [INFO] App Calculate Factorial of number 0
+17/Mar/2021:17:46:44 870 [App.java] [INFO] App Calculate Factorial of number 1
+17/Mar/2021:17:46:44 872 [App.java] [INFO] App Calculate Factorial of number 6
+17/Mar/2021:17:46:44 873 [App.java] [INFO] App Result of factorial of 6 is 720
+17/Mar/2021:17:46:44 875 [App.java] [INFO] App Calculate the Natural Log of 1.0
+17/Mar/2021:17:46:44 877 [App.java] [INFO] App Result of Natural Log of 1.0 is 0.0
+17/Mar/2021:17:46:44 879 [App.java] [INFO] App Calculate the Square Root of  0.0
+17/Mar/2021:17:46:44 880 [App.java] [INFO] App Result of the square root of 0.0 is 0.0
+17/Mar/2021:17:46:44 882 [App.java] [INFO] App Calculate the Square Root of  1.0
+17/Mar/2021:17:46:44 883 [App.java] [INFO] App Result of the square root of 1.0 is 1.0
+17/Mar/2021:17:46:44 885 [App.java] [INFO] App Calculate the Square Root of  16.0
+17/Mar/2021:17:46:44 887 [App.java] [INFO] App Result of the square root of 16.0 is 4.0
+17/Mar/2021:17:46:44 901 [App.java] [INFO] App Find Power of the number 0.0,0.0
+17/Mar/2021:17:46:44 903 [App.java] [INFO] App Result of Power of the number 0.0,0.0 is 1.0
+17/Mar/2021:17:46:44 907 [App.java] [INFO] App Find Power of the number 4.0,3.0
+17/Mar/2021:17:46:44 908 [App.java] [INFO] App Result of Power of the number 4.0,3.0 is 64.0
+17/Mar/2021:17:46:44 909 [App.java] [INFO] App Find Power of the number -1.0,7.0
+17/Mar/2021:17:46:44 912 [App.java] [INFO] App Result of Power of the number -1.0,7.0 is -1.0
+17/Mar/2021:17:46:44 915 [App.java] [INFO] App Find Power of the number 0.0,0.0
+17/Mar/2021:17:46:44 916 [App.java] [INFO] App Result of Power of the number 0.0,0.0 is 1.0
+17/Mar/2021:17:46:44 917 [App.java] [INFO] App Find Power of the number 4.0,3.0
+17/Mar/2021:17:46:44 919 [App.java] [INFO] App Result of Power of the number 4.0,3.0 is 64.0
+17/Mar/2021:17:46:44 920 [App.java] [INFO] App Find Power of the number -1.0,7.0
+17/Mar/2021:17:46:44 921 [App.java] [INFO] App Result of Power of the number -1.0,7.0 is -1.0
+17/Mar/2021:17:46:44 923 [App.java] [INFO] App Calculate Factorial of number 0
+17/Mar/2021:17:46:44 924 [App.java] [INFO] App Calculate Factorial of number 1
+17/Mar/2021:17:46:44 925 [App.java] [INFO] App Calculate Factorial of number 6
+17/Mar/2021:17:46:44 926 [App.java] [INFO] App Result of factorial of 6 is 720
